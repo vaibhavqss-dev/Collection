@@ -1,0 +1,82 @@
+[
+    {
+        "ip": "2001:4860:1:1::fec",
+        "latitude": "39.0437",
+        "longitude": "-77.4875",
+        "city": "Ashburn",
+        "region": "Virginia",
+        "country": "US"
+    },
+    {
+        "ip": "2404:6800:4002:81e::200e",
+        "latitude": "28.6519",
+        "longitude": "77.2315",
+        "city": "Delhi",
+        "region": "Delhi",
+        "country": "IN"
+    },
+    {
+        "ip": "2404:6800:810d::1",
+        "latitude": "28.6519",
+        "longitude": "77.2315",
+        "city": "Delhi",
+        "region": "Delhi",
+        "country": "IN"
+    },
+    {
+        "ip": "2001:4860:0:1::78bd",
+        "latitude": "37.4056",
+        "longitude": "-122.0775",
+        "city": "Mountain View",
+        "region": "California",
+        "country": "US"
+    },
+    {
+        "ip": "2001:4860:0:1::2b4e",
+        "latitude": "37.4056",
+        "longitude": "-122.0775",
+        "city": "Mountain View",
+        "region": "California",
+        "country": "US"
+    },
+    {
+        "ip": "2001:4860:0:1::77ac",
+        "latitude": "37.4056",
+        "longitude": "-122.0775",
+        "city": "Mountain View",
+        "region": "California",
+        "country": "US"
+    },
+    {
+        "ip": "2404:a800:1a00:900::15",
+        "latitude": "28.6519",
+        "longitude": "77.2315",
+        "city": "Delhi",
+        "region": "Delhi",
+        "country": "IN"
+    },
+    {
+        "ip": "2401:4900:8844:56a0:f627:56ff:fe49:fa8f",
+        "latitude": "28.6654",
+        "longitude": "77.4391",
+        "city": "Gh\u0101zi\u0101b\u0101d",
+        "region": "Uttar Pradesh",
+        "country": "IN"
+    },
+    {
+        "ip": "2404:a800::251",
+        "latitude": "28.5498",
+        "longitude": "77.2651",
+        "city": "New Delhi",
+        "region": "Delhi",
+        "country": "IN"
+    },
+    {
+        "ip": "2001:4860:0:1::538b",
+        "latitude": "37.4056",
+        "longitude": "-122.0775",
+        "city": "Mountain View",
+        "region": "California",
+        "country": "US"
+    }
+]
